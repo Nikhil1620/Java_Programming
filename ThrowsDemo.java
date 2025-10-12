@@ -9,8 +9,6 @@ class Demo
     }
 }
 
-
-
 class ThrowsDemo
 {
     public static void main(String A[])
