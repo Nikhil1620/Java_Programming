@@ -12,6 +12,8 @@ Output:
     Diagonal Pattern(For this kind of Question the Rows and coloumns should be same)
 */
 
+// Import Packeges
+
 import java.util.Scanner;
 
 class Pattern
