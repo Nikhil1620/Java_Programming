@@ -10,6 +10,8 @@ Output:
         * * * *
 */
 
+// Import Packeges
+
 import java.util.Scanner;
 
 class Pattern
