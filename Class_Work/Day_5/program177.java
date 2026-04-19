@@ -1,6 +1,8 @@
 //Input = 8
 //Output = 1 A 3 B 5 C 7 D  
 
+// Import Packeges
+
 import java.util.Scanner;
 
 class Pattern
