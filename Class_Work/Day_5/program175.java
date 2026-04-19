@@ -2,6 +2,8 @@
 //Output = a  b  c  d  e
 //Index  = 1  2  3  4  5
 
+// Import Packeges
+
 import java.util.Scanner;
 
 class Pattern
