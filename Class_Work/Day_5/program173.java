@@ -3,6 +3,8 @@
 //Index  = 1   2  3  4   5
 //ASCII =  97 98 99 100 101
 
+// Import Packeges
+
 import java.util.Scanner;
 
 class Pattern
